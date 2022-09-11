@@ -18,6 +18,13 @@ Video Drivers
 - [PCD8854](./pcd8854.pdf) - 48x48 pixels, monochrome [[external link](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf)]
 - [ST7789](./st7789.pdf) - 240x240 pixel, 16-bit (RGB565) color display [[external link](https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf)]
 
+Displays
+--------
+
+- [DM-TFT13-377](./dm-tft13-377.pdf) - 240x240 pixel IPS module, [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
+- [DM-TFT13-377_panel](./dm-tft13-377panel.pdf) - 240x240 pixel IPS panel (12 pin), [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
+- [ZJY133T-IF05](./zjy133t-if05.pdf) - 240x240 pixel IPS panel (24 pin) [[external link](https://cdn-shop.adafruit.com/product-files/4520/4520_C13462__________.pdf)]
+
 Secure Element
 --------------
 
