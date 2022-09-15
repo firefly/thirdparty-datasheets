@@ -29,6 +29,7 @@ Displays
 - [DM-TFT13-377](./dm-tft13-377.pdf) - 240x240 pixel IPS module, [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
 - [DM-TFT13-377_panel](./dm-tft13-377panel.pdf) - 240x240 pixel IPS panel (12 pin), [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
 - [ZJY133T-IF05](./zjy133t-if05.pdf) - 240x240 pixel IPS panel (24 pin) [[external link](https://cdn-shop.adafruit.com/product-files/4520/4520_C13462__________.pdf)]
+  - [Board Schematic](./zjy133t-if05.png) from the last page of the tutorial [external link; tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf)
 
 Secure Element
 --------------
