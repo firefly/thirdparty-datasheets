@@ -29,7 +29,8 @@ Displays
 - [DM-TFT13-377](./dm-tft13-377.pdf) - 240x240 pixel IPS module, [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
 - [DM-TFT13-377_panel](./dm-tft13-377panel.pdf) - 240x240 pixel IPS panel (12 pin), [[external link; see resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
 - [ZJY133T-IF05](./zjy133t-if05.pdf) - 240x240 pixel IPS panel (24 pin) [[external link](https://cdn-shop.adafruit.com/product-files/4520/4520_C13462__________.pdf)]
-  - [Board Schematic](./zjy133t-if05.png) from the last page of the tutorial [external link; tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf)
+  - [Adafruit Schematic](./adafruit-tft13-breakout-schematic.png) [see [downloads](https://learn.adafruit.com/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays/downloads)]
+  - [Adafruit  Tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf)
 
 Secure Element
 --------------
@@ -47,6 +48,16 @@ Power Sub-System
 
 - [10A45B](./10a45b.pdf) - Regulated Charge Pump DC/DC Converter
 - [AMS1117](./ams1117.pdf) - Voltage Regulator
+- [SPX3819](./spx3819.pdf) - Voltage Regulator
+
+
+Other Projects
+==============
+
+Here are other projects for inspiration and ideas.
+
+- ESP32-C3 DevKitM [schematic](./esp32-c3-devkitm.pdf); [[external link](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf)]
+- Tiny ESP32-C3 Dev Board [GitHub](https://github.com/01Space/ESP32-C3-0.42LCD); [[schematic](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/Schematic/ESP32-C3-0.42OED%20Schematic.pdf)]
 
 
 Copyright
