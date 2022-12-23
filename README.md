@@ -28,7 +28,8 @@ Video Drivers
 -------------
 
 - [PCD8854](./pcd8854.pdf) - 48x48 pixels, monochrome [[external link](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf)]
-- [ST7789](./st7789.pdf) - 240x240 pixel, 16-bit (RGB565) color display [[external link](https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf)]
+- [SSD1306](./ssd1306.pdf) - 128x64 pixel, monochrome [[download](https://www.szmaclight.com/download/SSD1306-datasheet.html)]
+- [ST7789](./st7789.pdf) - 240x240 pixel, 16-bit (RGB565) color [[external link](https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf)]
 
 
 Display Panels
