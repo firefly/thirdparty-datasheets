@@ -36,7 +36,7 @@ Display Panels
 -------------
 
 - DM-TFT-377 - 240x240 pixel IPS Display, ST7789 driver, 12 pin
-  - [datasheet](./dm-tft13-377panel.pdf) [[external link](https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377panel_Datasheet.pdf?v=1659336245), [other resources tab](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
+  - [datasheet](./dm-tft13-377panel.pdf) [[external link](https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377panel_Datasheet.pdf?v=1659336245), [other resources](https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi)]
   - [devboard](./dm-tft13-377.pdf) [[external link](https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377_Datasheet.pdf?v=1659336245)]
 - DM-TFT-377 - 240x240 pixel IPS Display, ST7789 driver, 24 pin
   - [datasheet](./zjy133t-if05.pdf) [[external link](https://cdn-shop.adafruit.com/product-files/4520/4520_C13462__________.pdf)]
@@ -71,8 +71,8 @@ Other Projects
 
 Here are other projects for inspiration and ideas.
 
-- Tiny ESP32-C3 Dev Board [GitHub](https://github.com/01Space/ESP32-C3-0.42LCD); [[schematic](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/Schematic/ESP32-C3-0.42OED%20Schematic.pdf)]
-- Univeral IPS Display Breakout Board [Hackaday](https://hackaday.io/project/168130-universal-ips-display-breakout-board/)
+- Tiny ESP32-C3 Dev Board [[GitHub](https://github.com/01Space/ESP32-C3-0.42LCD), [schematic](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/Schematic/ESP32-C3-0.42OED%20Schematic.pdf)]
+- Univeral IPS Display Breakout Board [[Hackaday](https://hackaday.io/project/168130-universal-ips-display-breakout-board/)]
 
 
 Copyright
