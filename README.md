@@ -13,23 +13,32 @@ Micro Controller Unit
   - [datasheet](./atmega2560.pdf) [[external link](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)]
 - ESP32 - Arduino; 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE
   - [datasheet](./esp32.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)]
-  - [WROOM-32 module](./esp32-wroom32.pdf) 4/8/16Mb Flash [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)]
+  - WROOM-32 module - 4/8/16Mb Flash 
+    - [datasheet](./esp32-wroom32.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)]
 - ESP32-C3 - RISC-V, 32-bit, single-core @160Mhz, 400kb RAM, 4kb eFuse, WiFi+BLE, World Controller
-  - [datasheet](./esp32-c3.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)]
-  - [MINI-1 module](./esp32-c3-mini-1.pdf) 4Mb Flash [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)]
-  - ESP32-C3-DevKitM-1 [schematic](./esp32-c3-devkitm.pdf) [[external link](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf), [summary](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)]
+  - [datasheet](./esp32-c3.pdf) [external links: [datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)]
+  - ESP32-C3-MINI-1 module - 4Mb Flash
+    - [datasheet](./esp32-c3-mini-1.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)]
+    - LCSC Part C2838502 [[JLCPCB](https://jlcpcb.com/partdetail/EspressifSystems-ESP32_C3_MINI_1N4/C2838502)]
+  - ESP32-C3-DevKitM-1 - Development Board
+    - [schematic](./esp32-c3-devkitm.pdf) [[external link](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf), [summary](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)]
 - ESP32-S3 - RISC-V, 32-bit, dual-core @240Mhz, 512K RAM, 4kb eFuse, WiFi+BLE, World Controller
   - [datasheet](./esp32-s3.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf)]
-  - [MINI-1 module](./esp32-s3-mini-1.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)]
-  - ESP32-S3-DevKitM-1 [schematic](./esp32-s3-devkitm.pdf) [[external link](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf), [summary](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html)]
+  - MINI-1 module
+    - [datasheet](./esp32-s3-mini-1.pdf) [[external link](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)]
+  - ESP32-S3-DevKitM-1 - Development Board
+    - [schematic](./esp32-s3-devkitm.pdf) [[external link](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf), [summary](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html)]
 
 
 Video Drivers
 -------------
 
-- [PCD8854](./pcd8854.pdf) - 48x48 pixels, monochrome [[external link](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf)]
-- [SSD1306](./ssd1306.pdf) - 128x64 pixel, monochrome [[download](https://www.szmaclight.com/download/SSD1306-datasheet.html)]
-- [ST7789](./st7789.pdf) - 240x240 pixel, 16-bit (RGB565) color [[external link](https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf)]
+- PCD8854 - 48x48 pixels, monochrome
+  - [datasheet](./pcd8854.pdf) [[external link](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf)]
+- SSD1306 - 128x64 pixel, monochrome
+  - [datasheet](./ssd1306.pdf) [[download](https://www.szmaclight.com/download/SSD1306-datasheet.html)]
+- ST7789 - 240x240 pixel, 16-bit (RGB565) color
+  - [datasheet](./st7789.pdf) [[external link](https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf)]
 
 
 Display Panels
@@ -61,11 +70,26 @@ Camera Module
 Power Sub-System
 ----------------
 
-- [10A45B](./10a45b.pdf) - Regulated Charge Pump DC/DC Converter
-- [AMS1117](./ams1117.pdf) - Voltage Regulator
-- [SPX3819](./spx3819.pdf) - Voltage Regulator
+- 10A45B - Regulated Charge Pump DC/DC Converter
+  - [datasheet](./10a45b.pdf)
+- AMS1117 - Voltage Regulator
+  - [datasheet](./ams1117.pdf) [[external link](https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf)]
+  - LCSC Part C6186 [[JLCPCB](https://jlcpcb.com/parts/componentSearch?isSearch=true&searchTxt=ams1117)]
+- SPX3819 - Voltage Regulator
+  - [datasheet](./spx3819.pdf) [[external link](https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055)]
+  - LCSC Part C9055 [[JLCPCB](https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055)]
 
 
+Connectors
+==========
+
+- USB-C, 16 pin, female
+  - [datasheet](./usb-c-16-fem.pdf) [[external link](https://datasheet.lcsc.com/lcsc/2203111830_XUNPU-TYPEC-304-ACP16_C2982555.pdf)]
+  - LCSC Part C2982555 [[JLCPCB](https://jlcpcb.com/partdetail/Xunpu-TYPEC_304ACP16/C2982555)]
+- THD0515-24CL-SN FPC (Flexible PCB Conenctor), 24 pin
+  - [datasheet](./thd0515-xxcl-xx.pdf) [[external link](https://datasheet.lcsc.com/lcsc/1811021412_THD-THD0515-24CL-SN_C283150.pdf)]
+  - LCSC Part C283150 [[JLCPCB](https://jlcpcb.com/partdetail/Thd-THD0515_24CLSN/C283150)]
+  
 Other Projects
 ==============
 
