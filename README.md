@@ -57,8 +57,8 @@ Secure Element
 --------------
 
 - ATEC806A - Secure Element
-  - [datasheet](./atec806a.pdf) [external links: [datasheer](http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf)]
-  - [summary](./atecc806a-summary.pdf) [external links: [summary](http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf)]
+  - [datasheet](./atec806a.pdf) [external links: [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf)]
+  - [summary](./atec806a-summary.pdf) [external links: [summary](http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf)]
 
 
 Camera Module
