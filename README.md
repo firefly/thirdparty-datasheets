@@ -1,7 +1,9 @@
 Third-Party Data Sheets
 =======================
 
-Mirror of third-party data sheets and schematics for various components used and adapted for the Firefly and related projects.
+Mirror of third-party data sheets and schematics for various
+components used and adapted for the Firefly and related
+projects.
 
 
 Micro Controller Unit
@@ -52,6 +54,9 @@ Display Panels
   - [devboard schematic](./adafruit-tft13-breakout-schematic.png) [external links: [devboard](https://cdn-learn.adafruit.com/assets/assets/000/079/156/original/adafruit_products_1-3in_IPS_TFT_Sch.png?1565202407), [tutorial](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf)]
 - WS2812B-2020 - Addressable LED
   - [datasheet](./ws2812b-2020.pdf) [external links: [datasheet download](http://www.world-semi.com/solution/details-140-4.html)]
+- WS2812C-2020 - Addressable LED
+  - [datasheet](./ws2812c-2020.pdf) [external links: [datasheet download](https://cdn.sparkfun.com/assets/7/0/3/c/9/WS2812C-2020.pdf)]
+  - LCSC Part C2976072 [external links: [JCLPCB](https://jlcpcb.com/partdetail/Worldsemi-WS2812C_2020V1/C2976072)]
 
 Secure Element
 --------------
@@ -79,18 +84,34 @@ Power Sub-System
 - SPX3819 - Voltage Regulator
   - [datasheet](./spx3819.pdf) [external links: [datasheet](https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055)]
   - LCSC Part C9055 [external links: [JLCPCB](https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055)]
-
+- TPSPX3819 - Voltage Regulator (pin-compatible to SPX3819)
+  - [datasheet](./tpspx3819.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/2303140930_TECH-PUBLIC-TPSPX3819M5-L-3-3_C5370980.pdf)]
+  - LCSC Part C5370980 [external links: [JLCPCB](https://jlcpcb.com/partdetail/TechPublic-TPSPX3819M5_L_33/C5370980)]
 
 Connectors
-==========
+----------
 
 - USB-C, 16 pin, female
   - [datasheet](./usb-c-16-fem.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/2203111830_XUNPU-TYPEC-304-ACP16_C2982555.pdf)]
   - LCSC Part C2982555 [external links: [JLCPCB](https://jlcpcb.com/partdetail/Xunpu-TYPEC_304ACP16/C2982555)]
+- USB-C, 16 pin, female, board sink
+  - [datasheet](./usb-c-15-fem-sink.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/2110191030_SHOU-HAN-TYPE-C-16P-CB0-8-073_C2906289.pdf)]
+  - LCSC Part C2906289 [external links: [JLCPCB](https://jlcpcb.com/partdetail/ShouHan-TYPE_C_16P_CB0_8073/C2906289)]
 - THD0515-24CL-SN FPC (Flexible PCB Conenctor), 24 pin
   - [datasheet](./thd0515-xxcl-xx.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/1811021412_THD-THD0515-24CL-SN_C283150.pdf)]
   - LCSC Part C283150 [external links: [JLCPCB](https://jlcpcb.com/partdetail/Thd-THD0515_24CLSN/C283150)]
-  
+
+Other Components
+----------------
+
+- 40Mhz Oscillator Crystal
+  - [datasheet](./fa-20h.pdf) [external links: [datasheet](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en), [Epson website](https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html)]
+  - LCSC Part C255973 [external links: [JLCPCB](https://www.lcsc.com/product-detail/Crystals_Seiko-Epson-Q24FA20H0020900_C255973.html)]
+- ESD Protection
+  - [datasheet](./usblc6-2sc6.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/2108132230_TECH-PUBLIC-USBLC6-2SC6_C2827654.pdf)]
+  - LCSC Part C2827654 [external links: [JLCPCB](https://jlcpcb.com/partdetail/TechPublic-USBLC62SC6/C2827654)]
+
+
 Other Projects
 ==============
 
@@ -99,6 +120,7 @@ Here are other projects, tutorials and whatnot for inspiration and ideas.
 - How to add USB-C to your project [[PCBWay](https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_add_USB_C_to_your_projects.html)]
 - Tiny ESP32-C3 Dev Board [[GitHub](https://github.com/01Space/ESP32-C3-0.42LCD), [schematic](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/Schematic/ESP32-C3-0.42OED%20Schematic.pdf)]
 - Univeral IPS Display Breakout Board [[Hackaday](https://hackaday.io/project/168130-universal-ips-display-breakout-board/)]
+- ESP32 + PCB Antenna Hardware Design Tutorial [[YouTube](https://www.youtube.com/watch?v=yxU_Kw2de08), [GitHub](https://github.com/pms67/ESP32-USB-Dongle)]
 
 Copyright
 =========
