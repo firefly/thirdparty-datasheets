@@ -58,6 +58,13 @@ Display Panels
   - [datasheet](./ws2812c-2020.pdf) [external links: [datasheet download](https://cdn.sparkfun.com/assets/7/0/3/c/9/WS2812C-2020.pdf)]
   - LCSC Part C2976072 [external links: [JCLPCB](https://jlcpcb.com/partdetail/Worldsemi-WS2812C_2020V1/C2976072)]
 
+Storage
+-------
+
+- W25Q128JVSIQ - 128 Mbit (16Mb) NOR Flash 
+  - [datasheet](./w25q128jv.pdf) [external links: [datasheet](https://datasheet.lcsc.com/lcsc/1811142111_Winbond-Elec-W25Q128JVSIQ_C97521.pdf)]
+  - LCSC Part C97521 [external links: [JLCPCB](https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521)]
+
 Secure Element
 --------------
 
