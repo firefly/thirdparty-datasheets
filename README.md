@@ -135,6 +135,15 @@ Here are other projects, tutorials and whatnot for inspiration and ideas.
 - ESP32 + PCB Antenna Hardware Design Tutorial [[YouTube](https://www.youtube.com/watch?v=yxU_Kw2de08), [GitHub](https://github.com/pms67/ESP32-USB-Dongle)]
 
 
+Contributing
+============
+
+This README is automatically generated, **do not modify it manually**.
+
+Add the necessary information to the `_data.json` and run
+`node _create-index.mjs` to re-build this page.
+
+
 Copyright
 =========
 

@@ -9,7 +9,7 @@ function repeat(c, count) {
 
 const header = fs.readFileSync("./_header.md").toString().trim().split("\n");
 const footer = fs.readFileSync("./_footer.md").toString().trim().split("\n");
-const data = JSON.parse(fs.readFileSync("./data.json").toString());
+const data = JSON.parse(fs.readFileSync("./_data.json").toString());
 
 const output = [ ];
 
