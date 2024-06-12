@@ -112,7 +112,7 @@ Other Components
   - [summary](./misc/atec806a-summary.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf)]</sup>
 - **Button** - *Oval*
   - [datasheet](./misc/button-oval.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf)]</sup>
-  - LCSC Part C168856 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C168856)]</sup>
+  - LCSC Part C720479 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C720479)]</sup>
 - **FA-20h** - *40Mhz Oscillator Crystal*
   - [datasheet](./misc/fa-20h.pdf) <sup>[[external](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en)]</sup>
   - Epson website <sup>[[external](https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html)]</sup>
