@@ -38,7 +38,11 @@ for (const { name, tag } of data.categories) {
   output.push(name);
   output.push(repeat("-", name.length));
   output.push("");
-  data.parts.sort((a, b) => a.name.localeCompare(b.name));
+  data.parts.sort((a, b) => {
+    const cmpName = a.name.localeCompare(b.name);
+    if (cmpName) { return cmpName; }
+    return a.descr.localeCompare(b.descr);
+  });
   for (const part of data.parts) {
     if (part.cat !== tag) { continue; }
     part.done = true;
