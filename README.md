@@ -58,7 +58,7 @@ Displays
   - tutorial <sup>[[external](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf)]</sup>
 - **WS2812B-2020** - *Addressable LED*
   - [datasheet](./display/ws2812b-2020.pdf) <sup>[[external](http://www.world-semi.com/solution/details-140-4.html)]</sup>
-- **WS2812C-2020** - *Addressable LED*
+- **WS2812C-2020-V1** - *Addressable LED*
   - [datasheet](./display/ws2812c-2020.pdf) <sup>[[external](https://cdn.sparkfun.com/assets/7/0/3/c/9/WS2812C-2020.pdf)]</sup>
   - LCSC Part C2976072 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2976072)]</sup>
 
@@ -90,6 +90,9 @@ Power
 Connectors
 ----------
 
+- **AFC01-S24FCA-00** - *Clamshell, FPC (Flexible PCB Conenctor), 24 pin*
+  - [datasheet](./conn/afc01-s24fca-00.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_JUSHUO-AFC01-S24FCA-00_C262669.pdf)]</sup>
+  - LCSC Part C262669 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C262669)]</sup>
 - **THD0515-24CL-SN** - *FPC (Flexible PCB Conenctor), 24 pin*
   - [datasheet](./conn/thd0515-xxcl-xx.pdf) <sup>[[external](https://datasheet.lcsc.com/lcsc/1811021412_THD-THD0515-24CL-SN_C283150.pdf)]</sup>
   - LCSC Part C283150 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C283150)]</sup>
@@ -117,9 +120,15 @@ Other Components
   - [datasheet](./misc/fa-20h.pdf) <sup>[[external](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en)]</sup>
   - Epson website <sup>[[external](https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html)]</sup>
   - LCSC Part C255973 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C255973)]</sup>
+- **K2C400000910** - *40Mhz Oscillator Crystal; SMD2520-4P*
+  - [datasheet](./misc/k2c400000910.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_KYX-K2C400000910_C409424.pdf)]</sup>
+  - LCSC Part C409424 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C409424)]</sup>
 - **OV7670** - *Camera Module, 640x480 pixels, 30fps*
   - [datasheet](./misc/ov7670.pdf) <sup>[[external](https://www.voti.nl/docs/OV7670.pdf)]</sup>
-- **USBLC6-2SC6** - *Low Capacitance TVS Diode Array (ESD)*
+- **USBLC6-2P6** - *Low Capacitance TVS Diode Array (ESD); SOT-666*
+  - [datasheet](./misc/usblc6-2p6.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108132230_TECH-PUBLIC-USBLC6-2P6_C2827693.pdf)]</sup>
+  - LCSC Part C2827693 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2827693)]</sup>
+- **USBLC6-2SC6** - *Low Capacitance TVS Diode Array (ESD); SOT-23*
   - [datasheet](./misc/usblc6-2sc6.pdf) <sup>[[external](https://datasheet.lcsc.com/lcsc/2108132230_TECH-PUBLIC-USBLC6-2SC6_C2827654.pdf)]</sup>
   - LCSC Part C2827654 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2827654)]</sup>
 

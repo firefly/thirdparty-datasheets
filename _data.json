@@ -163,7 +163,7 @@
     },
     {
       "cat": "display",
-      "name": "WS2812C-2020",
+      "name": "WS2812C-2020-V1",
       "descr": "Addressable LED",
       "url": "https://cdn.sparkfun.com/assets/7/0/3/c/9/WS2812C-2020.pdf",
       "filename": "ws2812c-2020.pdf",
@@ -234,6 +234,14 @@
       "mpn": "C283150"
     },
     {
+      "cat": "conn",
+      "name": "AFC01-S24FCA-00",
+      "descr": "Clamshell, FPC (Flexible PCB Conenctor), 24 pin",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_JUSHUO-AFC01-S24FCA-00_C262669.pdf",
+      "filename": "afc01-s24fca-00.pdf",
+      "mpn": "C262669"
+    },
+    {
       "cat": "misc",
       "name": "74LVC1T45",
       "descr": "Single-bit dual-power supply translating transceiver (level shifter)",
@@ -280,11 +288,27 @@
     },
     {
       "cat": "misc",
+      "name": "K2C400000910",
+      "descr": "40Mhz Oscillator Crystal; SMD2520-4P",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_KYX-K2C400000910_C409424.pdf",
+      "filename": "k2c400000910.pdf",
+      "mpn": "C409424"
+    },
+    {
+      "cat": "misc",
       "name": "USBLC6-2SC6",
-      "descr": "Low Capacitance TVS Diode Array (ESD)",
+      "descr": "Low Capacitance TVS Diode Array (ESD); SOT-23",
       "url": "https://datasheet.lcsc.com/lcsc/2108132230_TECH-PUBLIC-USBLC6-2SC6_C2827654.pdf",
       "filename": "usblc6-2sc6.pdf",
       "mpn": "C2827654"
+    },
+    {
+      "cat": "misc",
+      "name": "USBLC6-2P6",
+      "descr": "Low Capacitance TVS Diode Array (ESD); SOT-666",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108132230_TECH-PUBLIC-USBLC6-2P6_C2827693.pdf",
+      "filename": "usblc6-2p6.pdf",
+      "mpn": "C2827693"
     },
     {
       "cat": "misc",
