@@ -1,0 +1,335 @@
+{
+  "parts": [
+    {
+      "cat": "mcu",
+      "name": "ATmega328",
+      "descr": "Arduino; 8-bit 32kb Flash, 2kb SRAM, 1kb EEPROM",
+      "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf",
+      "filename": "atmega328.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "mcu",
+      "name": "ATmega2560",
+      "descr": "Arduino; 8-bit, 256kb Flash, 8kb RAM, 4kb EEPROM",
+      "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf",
+      "filename": "atmega2560.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32",
+      "descr": "Arduino; 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf",
+      "filename": "esp32.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32 WROOM-32 Module",
+      "descr": "4/8/16Mb Flash",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf",
+      "filename": "esp32-wroom32.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32-C3",
+      "descr": "RISC-V, 32-bit, single-core @160Mhz, 400kb RAM, 4kb eFuse, WiFi+BLE, World Controller",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf",
+      "filename": "esp32-c3.pdf",
+      "mpn": "C2838500"
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32-C3 MINI-1 Module",
+      "descr": "4Mb Flash",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf",
+      "filename": "esp32-c3-mini-1.pdf",
+      "urls": [
+        {
+          "name": "DevKitM-1 schematic",
+          "filename": "esp32-c3-devkitm.pdf",
+          "url": "https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf"
+        },
+        {
+          "name": "DevKitM-1 summary",
+          "filename": "",
+          "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html"
+        }
+      ],
+      "mpn": "C2838502"
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32-S3",
+      "descr": "XTensa, 32-bit, dual-core @240Mhz, 512K RAM, 4kb eFuse, WiFi+BLE, World Controller",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf",
+      "filename": "esp32-s3.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "mcu",
+      "name": "ESP32-S3 MINI-1 Module",
+      "descr": "Module",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf",
+      "filename": "esp32-s3-mini-1.pdf",
+      "urls": [
+        {
+          "name": "DevKitM schematic",
+          "filename": "esp32-s3-devkitm.pdf",
+          "url": "https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf"
+        },
+        {
+          "name": "DevKitM summary",
+          "filename": "",
+          "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html"
+        }
+      ],
+      "mpn": ""
+    },
+    {
+      "cat": "video",
+      "name": "PCD8854",
+      "descr": "48x48 pixels, monochrome",
+      "url": "https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf",
+      "filename": "pcd8854.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "video",
+      "name": "SSD1306",
+      "descr": "128x64 pixel, monochrome",
+      "url": "https://www.szmaclight.com/download/SSD1306-datasheet.html",
+      "filename": "ssd1306.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "video",
+      "name": "ST7789",
+      "descr": "240x240 pixel, 16-bit (RGB565) color",
+      "url": "https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf",
+      "filename": "st7789.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "display",
+      "name": "DM-TFT-377",
+      "descr": "240x240 pixel IPS Display, ST7789 driver, 12 pin (welded)",
+      "url": "https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377panel_Datasheet.pdf?v=1659336245",
+      "filename": "dm-tft13-377panel.pdf",
+      "urls": [
+        {
+          "name": "other resources",
+          "url": "https://www.displaymodule.com/products/1-3-240-x-240-ips-tft-display-module-spi"
+        },
+        {
+          "name": "Devboard",
+          "filename": "dm-tft13-377.pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377_Datasheet.pdf?v=1659336245"
+        }
+      ],
+      "mpn": ""
+    },
+    {
+      "cat": "display",
+      "name": "DM-TFT-377",
+      "descr": "240x240 pixel IPS Display, ST7789 driver, 24 pin (plug-in)",
+      "url": "https://cdn-shop.adafruit.com/product-files/4520/4520_C13462__________.pdf",
+      "filename": "zjy133t-if05.pdf",
+      "urls": [
+        {
+          "name": "devboard schematic",
+          "filename": "adafruit-tft13-breakout-schematic.png"
+        },
+        {
+          "name": "devboard",
+          "url": "https://cdn-learn.adafruit.com/assets/assets/000/079/156/original/adafruit_products_1-3in_IPS_TFT_Sch.png?1565202407"
+        },
+        {
+          "name": "tutorial",
+          "url": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf"
+        }
+      ],
+      "mpn": ""
+    },
+    {
+      "cat": "display",
+      "name": "WS2812B-2020",
+      "descr": "Addressable LED",
+      "url": "http://www.world-semi.com/solution/details-140-4.html",
+      "filename": "ws2812b-2020.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "display",
+      "name": "WS2812C-2020",
+      "descr": "Addressable LED",
+      "url": "https://cdn.sparkfun.com/assets/7/0/3/c/9/WS2812C-2020.pdf",
+      "filename": "ws2812c-2020.pdf",
+      "mpn": "C2976072"
+    },
+    {
+      "cat": "storage",
+      "name": "W25Q128JVSIQ",
+      "descr": "128 Mbit (16Mb) NOR Flash",
+      "url": "https://datasheet.lcsc.com/lcsc/1811142111_Winbond-Elec-W25Q128JVSIQ_C97521.pdf",
+      "filename": "w25q128jv.pdf",
+      "mpn": "C97521"
+    },
+    {
+      "cat": "power",
+      "name": "10A45B",
+      "descr": "Regulated Charge Pump DC/DC Converter",
+      "url": "",
+      "filename": "10a45b.pdf",
+      "mpn": ""
+    },
+    {
+      "cat": "power",
+      "name": "AMS1117",
+      "descr": "Voltage Regulator",
+      "url": "https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf",
+      "filename": "ams1117.pdf",
+      "mpn": "C6186"
+    },
+    {
+      "cat": "power",
+      "name": "SPX3819",
+      "descr": "Voltage Regulator",
+      "url": "https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055",
+      "filename": "spx3819.pdf",
+      "mpn": "C9055"
+    },
+    {
+      "cat": "power",
+      "name": "TPSPX3819",
+      "descr": "Voltage Regulator (pin-compatible to SPX3819)",
+      "url": "https://datasheet.lcsc.com/lcsc/2303140930_TECH-PUBLIC-TPSPX3819M5-L-3-3_C5370980.pdf",
+      "filename": "tpspx3819.pdf",
+      "mpn": "C5370980"
+    },
+    {
+      "cat": "conn",
+      "name": "USB-C",
+      "descr": "16 pin, female",
+      "url": "https://datasheet.lcsc.com/lcsc/2203111830_XUNPU-TYPEC-304-ACP16_C2982555.pdf",
+      "filename": "usb-c-16-fem.pdf",
+      "mpn": "C2982555"
+    },
+    {
+      "cat": "conn",
+      "name": "USB-C",
+      "descr": "16 pin, female, board sink",
+      "url": "https://datasheet.lcsc.com/lcsc/2110191030_SHOU-HAN-TYPE-C-16P-CB0-8-073_C2906289.pdf",
+      "filename": "usb-c-15-fem-sink.pdf",
+      "mpn": "C2906289"
+    },
+    {
+      "cat": "conn",
+      "name": "THD0515-24CL-SN",
+      "descr": "FPC (Flexible PCB Conenctor), 24 pin",
+      "url": "https://datasheet.lcsc.com/lcsc/1811021412_THD-THD0515-24CL-SN_C283150.pdf",
+      "filename": "thd0515-xxcl-xx.pdf",
+      "mpn": "C283150"
+    },
+    {
+      "cat": "misc",
+      "name": "74LVC1T45",
+      "descr": "Single-bit dual-power supply translating transceiver (level shifter)",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf",
+      "filename": "74lvc1t45.pdf",
+      "mpn": "C168856"
+    },
+    {
+      "cat": "misc",
+      "name": "ATEC806A",
+      "descr": "Secure Element",
+      "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf",
+      "filename": "atec806a.pdf",
+      "urls": [
+        {
+          "name": "summary",
+          "filename": "atec806a-summary.pdf",
+          "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf"
+        }
+      ],
+      "mpn": ""
+    },
+    {
+      "cat": "misc",
+      "name": "Button",
+      "descr": "Oval",
+      "url": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf",
+      "filename": "button-oval.pdf",
+      "mpn": "C168856"
+    },
+    {
+      "cat": "misc",
+      "name": "FA-20h",
+      "descr": "40Mhz Oscillator Crystal",
+      "url": "https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en",
+      "filename": "fa-20h.pdf",
+      "urls": [
+        {
+          "name": "Epson website",
+          "url": "https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html"
+        }
+      ],
+      "mpn": "C255973"
+    },
+    {
+      "cat": "misc",
+      "name": "USBLC6-2SC6",
+      "descr": "Low Capacitance TVS Diode Array (ESD)",
+      "url": "https://datasheet.lcsc.com/lcsc/2108132230_TECH-PUBLIC-USBLC6-2SC6_C2827654.pdf",
+      "filename": "usblc6-2sc6.pdf",
+      "mpn": "C2827654"
+    },
+    {
+      "cat": "misc",
+      "name": "OV7670",
+      "descr": "Camera Module, 640x480 pixels, 30fps",
+      "url": "https://www.voti.nl/docs/OV7670.pdf",
+      "filename": "ov7670.pdf",
+      "mpn": ""
+    }
+  ],
+  "categories": [
+    {
+      "name": "Micro Controller Units",
+      "tag": "mcu",
+      "description": ""
+    },
+    {
+      "name": "Video Drivers",
+      "tag": "video",
+      "description": ""
+    },
+    {
+      "name": "Displays",
+      "tag": "display",
+      "description": ""
+    },
+    {
+      "name": "Storage",
+      "tag": "storage",
+      "description": ""
+    },
+    {
+      "name": "Power",
+      "tag": "power",
+      "description": ""
+    },
+    {
+      "name": "Connectors",
+      "tag": "conn",
+      "description": ""
+    },
+    {
+      "name": "Other Components",
+      "tag": "misc",
+      "description": ""
+    }
+  ]
+}
