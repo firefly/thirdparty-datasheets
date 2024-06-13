@@ -3,34 +3,30 @@
     {
       "cat": "mcu",
       "name": "ATmega328",
-      "descr": "Arduino; 8-bit 32kb Flash, 2kb SRAM, 1kb EEPROM",
+      "descr": "AVR, 8-bit 32kb Flash, 2kb SRAM, 1kb EEPROM",
       "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf",
-      "filename": "atmega328.pdf",
-      "mpn": ""
+      "filename": "atmega328.pdf"
     },
     {
       "cat": "mcu",
       "name": "ATmega2560",
-      "descr": "Arduino; 8-bit, 256kb Flash, 8kb RAM, 4kb EEPROM",
+      "descr": "AVR, 8-bit, 256kb Flash, 8kb RAM, 4kb EEPROM",
       "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf",
-      "filename": "atmega2560.pdf",
-      "mpn": ""
+      "filename": "atmega2560.pdf"
     },
     {
       "cat": "mcu",
       "name": "ESP32",
-      "descr": "Arduino; 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE",
+      "descr": "Xtensa, 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf",
-      "filename": "esp32.pdf",
-      "mpn": ""
+      "filename": "esp32.pdf"
     },
     {
       "cat": "mcu",
       "name": "ESP32 WROOM-32 Module",
       "descr": "4/8/16Mb Flash",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf",
-      "filename": "esp32-wroom32.pdf",
-      "mpn": ""
+      "filename": "esp32-wroom32.pdf"
     },
     {
       "cat": "mcu",
@@ -43,7 +39,7 @@
     {
       "cat": "mcu",
       "name": "ESP32-C3 MINI-1 Module",
-      "descr": "4Mb Flash",
+      "descr": "ESP32-C3, 4Mb Flash",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf",
       "filename": "esp32-c3-mini-1.pdf",
       "urls": [
@@ -54,7 +50,6 @@
         },
         {
           "name": "DevKitM-1 summary",
-          "filename": "",
           "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html"
         }
       ],
@@ -65,13 +60,12 @@
       "name": "ESP32-S3",
       "descr": "XTensa, 32-bit, dual-core @240Mhz, 512K RAM, 4kb eFuse, WiFi+BLE, World Controller",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf",
-      "filename": "esp32-s3.pdf",
-      "mpn": ""
+      "filename": "esp32-s3.pdf"
     },
     {
       "cat": "mcu",
       "name": "ESP32-S3 MINI-1 Module",
-      "descr": "Module",
+      "descr": "ESP32-S3, Module",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf",
       "filename": "esp32-s3-mini-1.pdf",
       "urls": [
@@ -82,35 +76,30 @@
         },
         {
           "name": "DevKitM summary",
-          "filename": "",
           "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html"
         }
-      ],
-      "mpn": ""
+      ]
     },
     {
       "cat": "video",
       "name": "PCD8854",
       "descr": "48x48 pixels, monochrome",
       "url": "https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf",
-      "filename": "pcd8854.pdf",
-      "mpn": ""
+      "filename": "pcd8854.pdf"
     },
     {
       "cat": "video",
       "name": "SSD1306",
       "descr": "128x64 pixel, monochrome",
       "url": "https://www.szmaclight.com/download/SSD1306-datasheet.html",
-      "filename": "ssd1306.pdf",
-      "mpn": ""
+      "filename": "ssd1306.pdf"
     },
     {
       "cat": "video",
       "name": "ST7789",
       "descr": "240x240 pixel, 16-bit (RGB565) color",
       "url": "https://www.newhavendisplay.com/appnotes/datasheets/LCDs/ST7789V.pdf",
-      "filename": "st7789.pdf",
-      "mpn": ""
+      "filename": "st7789.pdf"
     },
     {
       "cat": "display",
@@ -128,8 +117,7 @@
           "filename": "dm-tft13-377.pdf",
           "url": "https://cdn.shopify.com/s/files/1/0264/7629/files/DM-TFT13-377_Datasheet.pdf?v=1659336245"
         }
-      ],
-      "mpn": ""
+      ]
     },
     {
       "cat": "display",
@@ -150,16 +138,14 @@
           "name": "tutorial",
           "url": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-1-3-and-1-54-240-x-240-wide-angle-tft-lcd-displays.pdf"
         }
-      ],
-      "mpn": ""
+      ]
     },
     {
       "cat": "display",
       "name": "WS2812B-2020",
       "descr": "Addressable LED",
       "url": "http://www.world-semi.com/solution/details-140-4.html",
-      "filename": "ws2812b-2020.pdf",
-      "mpn": ""
+      "filename": "ws2812b-2020.pdf"
     },
     {
       "cat": "display",
@@ -181,9 +167,7 @@
       "cat": "power",
       "name": "10A45B",
       "descr": "Regulated Charge Pump DC/DC Converter",
-      "url": "",
-      "filename": "10a45b.pdf",
-      "mpn": ""
+      "filename": "10a45b.pdf"
     },
     {
       "cat": "power",
@@ -251,18 +235,18 @@
     },
     {
       "cat": "misc",
-      "name": "ATEC806A",
+      "name": "ATECC608A",
       "descr": "Secure Element",
       "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf",
-      "filename": "atec806a.pdf",
+      "filename": "atecc608a.pdf",
       "urls": [
         {
           "name": "summary",
-          "filename": "atec806a-summary.pdf",
+          "filename": "atecc608a-summary.pdf",
           "url": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf"
         }
       ],
-      "mpn": ""
+      "mpn": "C616908"
     },
     {
       "cat": "misc",
@@ -315,45 +299,37 @@
       "name": "OV7670",
       "descr": "Camera Module, 640x480 pixels, 30fps",
       "url": "https://www.voti.nl/docs/OV7670.pdf",
-      "filename": "ov7670.pdf",
-      "mpn": ""
+      "filename": "ov7670.pdf"
     }
   ],
   "categories": [
     {
       "name": "Micro Controller Units",
-      "tag": "mcu",
-      "description": ""
+      "tag": "mcu"
     },
     {
       "name": "Video Drivers",
-      "tag": "video",
-      "description": ""
+      "tag": "video"
     },
     {
       "name": "Displays",
-      "tag": "display",
-      "description": ""
+      "tag": "display"
     },
     {
       "name": "Storage",
-      "tag": "storage",
-      "description": ""
+      "tag": "storage"
     },
     {
       "name": "Power",
-      "tag": "power",
-      "description": ""
+      "tag": "power"
     },
     {
       "name": "Connectors",
-      "tag": "conn",
-      "description": ""
+      "tag": "conn"
     },
     {
       "name": "Other Components",
-      "tag": "misc",
-      "description": ""
+      "tag": "misc"
     }
   ]
 }

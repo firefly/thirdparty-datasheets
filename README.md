@@ -9,25 +9,25 @@ projects.
 Micro Controller Units
 ----------------------
 
-- **ATmega2560** - *Arduino; 8-bit, 256kb Flash, 8kb RAM, 4kb EEPROM*
+- **ATmega2560** - *AVR, 8-bit, 256kb Flash, 8kb RAM, 4kb EEPROM*
   - [datasheet](./mcu/atmega2560.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)]</sup>
-- **ATmega328** - *Arduino; 8-bit 32kb Flash, 2kb SRAM, 1kb EEPROM*
+- **ATmega328** - *AVR, 8-bit 32kb Flash, 2kb SRAM, 1kb EEPROM*
   - [datasheet](./mcu/atmega328.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)]</sup>
-- **ESP32** - *Arduino; 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE*
+- **ESP32** - *Xtensa, 32-bit, dual-core @240Mhz, 448kb ROM, 520kb RAM, 1kb eFuse, WiFi+BLE*
   - [datasheet](./mcu/esp32.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)]</sup>
 - **ESP32 WROOM-32 Module** - *4/8/16Mb Flash*
   - [datasheet](./mcu/esp32-wroom32.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)]</sup>
 - **ESP32-C3** - *RISC-V, 32-bit, single-core @160Mhz, 400kb RAM, 4kb eFuse, WiFi+BLE, World Controller*
   - [datasheet](./mcu/esp32-c3.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)]</sup>
   - LCSC Part C2838500 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2838500)]</sup>
-- **ESP32-C3 MINI-1 Module** - *4Mb Flash*
+- **ESP32-C3 MINI-1 Module** - *ESP32-C3, 4Mb Flash*
   - [datasheet](./mcu/esp32-c3-mini-1.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)]</sup>
   - [DevKitM-1 schematic](./mcu/esp32-c3-devkitm.pdf) <sup>[[external](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf)]</sup>
   - DevKitM-1 summary <sup>[[external](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)]</sup>
   - LCSC Part C2838502 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2838502)]</sup>
 - **ESP32-S3** - *XTensa, 32-bit, dual-core @240Mhz, 512K RAM, 4kb eFuse, WiFi+BLE, World Controller*
   - [datasheet](./mcu/esp32-s3.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf)]</sup>
-- **ESP32-S3 MINI-1 Module** - *Module*
+- **ESP32-S3 MINI-1 Module** - *ESP32-S3, Module*
   - [datasheet](./mcu/esp32-s3-mini-1.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)]</sup>
   - [DevKitM schematic](./mcu/esp32-s3-devkitm.pdf) <sup>[[external](https://dl.espressif.com/dl/schematics/SCH_ESP32-C3-DEVKITM-1_V1_20200915A.pdf)]</sup>
   - DevKitM summary <sup>[[external](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html)]</sup>
@@ -110,9 +110,10 @@ Other Components
 - **74LVC1T45** - *Single-bit dual-power supply translating transceiver (level shifter)*
   - [datasheet](./misc/74lvc1t45.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf)]</sup>
   - LCSC Part C168856 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C168856)]</sup>
-- **ATEC806A** - *Secure Element*
-  - [datasheet](./misc/atec806a.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf)]</sup>
-  - [summary](./misc/atec806a-summary.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf)]</sup>
+- **ATECC608A** - *Secure Element*
+  - [datasheet](./misc/atecc608a.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TNGTLS-CryptoAuthentication-Data-Sheet-DS40002112B.pdf)]</sup>
+  - [summary](./misc/atecc608a-summary.pdf) <sup>[[external](http://ww1.microchip.com/downloads/en/DeviceDoc/40001977A.pdf)]</sup>
+  - LCSC Part C616908 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C616908)]</sup>
 - **Button** - *Oval*
   - [datasheet](./misc/button-oval.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf)]</sup>
   - LCSC Part C720479 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C720479)]</sup>
