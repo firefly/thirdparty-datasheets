@@ -20,6 +20,7 @@ Micro Controller Units
 - **ESP32-C3** - *RISC-V, 32-bit, single-core @160Mhz, 400kb RAM, 4kb eFuse, WiFi+BLE, World Controller*
   - [datasheet](./mcu/esp32-c3.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)]</sup>
   - Hardware Guidelines <sup>[[external](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/hardware-development.html)]</sup>
+  - PCB Layout Design <sup>[[external](https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/pcb-layout-design.html)]</sup>
   - LCSC Part C2838500 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2838500)]</sup>
 - **ESP32-C3 MINI-1 Module** - *ESP32-C3, 4Mb Flash*
   - [datasheet](./mcu/esp32-c3-mini-1.pdf) <sup>[[external](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf)]</sup>

@@ -38,6 +38,10 @@
         {
           "name": "Hardware Guidelines",
           "url": "https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/hardware-development.html"
+        },
+        {
+          "name": "PCB Layout Design",
+          "url": "https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/pcb-layout-design.html"
         }
       ],
       "mpn": "C2838500"
