@@ -34,6 +34,12 @@
       "descr": "RISC-V, 32-bit, single-core @160Mhz, 400kb RAM, 4kb eFuse, WiFi+BLE, World Controller",
       "url": "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf",
       "filename": "esp32-c3.pdf",
+      "urls": [
+        {
+          "name": "Hardware Guidelines",
+          "url": "https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/hardware-development.html"
+        }
+      ],
       "mpn": "C2838500"
     },
     {
