@@ -7,6 +7,7 @@ Here are other projects, tutorials and whatnot for inspiration and ideas.
 - Tiny ESP32-C3 Dev Board [[GitHub](https://github.com/01Space/ESP32-C3-0.42LCD), [schematic](https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/Schematic/ESP32-C3-0.42OED%20Schematic.pdf)]
 - Univeral IPS Display Breakout Board [[Hackaday](https://hackaday.io/project/168130-universal-ips-display-breakout-board/)]
 - ESP32 + PCB Antenna Hardware Design Tutorial [[YouTube](https://www.youtube.com/watch?v=yxU_Kw2de08), [GitHub](https://github.com/pms67/ESP32-USB-Dongle)]
+- Battery Charging (with Load Sharing and Protection) Example [[GitHub]](https://github.com/wagiminator/Power-Boards/tree/master)
 
 
 Contributing
