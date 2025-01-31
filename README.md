@@ -81,9 +81,15 @@ Power
 - **AMS1117** - *Voltage Regulator*
   - [datasheet](./power/ams1117.pdf) <sup>[[external](https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf)]</sup>
   - LCSC Part C6186 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C6186)]</sup>
+- **DW01A** - *Battery Protection IC*
+  - [datasheet](./power/dw01a.pdf) <sup>[[external](http://www.tp4056.com/d/dw01a-fs.pdf)]</sup>
+  - LCSC Part C2927799 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2927799)]</sup>
 - **SPX3819** - *Voltage Regulator*
   - [datasheet](./power/spx3819.pdf) <sup>[[external](https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055)]</sup>
   - LCSC Part C9055 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C9055)]</sup>
+- **TP4057** - *Linear Li-Ion Battery Charger IC*
+  - [datasheet](./power/tp4057.pdf) <sup>[[external](https://www.lcsc.com/datasheet/lcsc_datasheet_2409241407_UMW-Youtai-Semiconductor-Co---Ltd--TP4057_C725791.pdf)]</sup>
+  - LCSC Part C725791 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C725791)]</sup>
 - **TPSPX3819** - *Voltage Regulator (pin-compatible to SPX3819)*
   - [datasheet](./power/tpspx3819.pdf) <sup>[[external](https://datasheet.lcsc.com/lcsc/2303140930_TECH-PUBLIC-TPSPX3819M5-L-3-3_C5370980.pdf)]</sup>
   - LCSC Part C5370980 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C5370980)]</sup>
@@ -123,6 +129,9 @@ Other Components
   - [datasheet](./misc/fa-20h.pdf) <sup>[[external](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en)]</sup>
   - Epson website <sup>[[external](https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html)]</sup>
   - LCSC Part C255973 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C255973)]</sup>
+- **FS8205A** - *Dual N-Channel Enhancement Power Mosfet*
+  - [datasheet](./misc/fs8205a.pdf) <sup>[[external](https://www.lcsc.com/datasheet/lcsc_datasheet_2411121100_TECH-PUBLIC-FS8205A_C2830320.pdf)]</sup>
+  - LCSC Part C2830320 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C2830320)]</sup>
 - **K2C400000910** - *40Mhz Oscillator Crystal; SMD2520-4P*
   - [datasheet](./misc/k2c400000910.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_KYX-K2C400000910_C409424.pdf)]</sup>
   - LCSC Part C409424 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C409424)]</sup>

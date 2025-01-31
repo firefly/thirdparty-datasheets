@@ -189,11 +189,27 @@
     },
     {
       "cat": "power",
+      "name": "DW01A",
+      "descr": "Battery Protection IC",
+      "url": "http://www.tp4056.com/d/dw01a-fs.pdf",
+      "filename": "dw01a.pdf",
+      "mpn": "C2927799"
+    },
+    {
+      "cat": "power",
       "name": "SPX3819",
       "descr": "Voltage Regulator",
       "url": "https://jlcpcb.com/partdetail/Maxlinear-SPX3819M5_L_3_3TR/C9055",
       "filename": "spx3819.pdf",
       "mpn": "C9055"
+    },
+    {
+      "cat": "power",
+      "name": "TP4057",
+      "descr": "Linear Li-Ion Battery Charger IC",
+      "filename": "tp4057.pdf",
+      "url": "https://www.lcsc.com/datasheet/lcsc_datasheet_2409241407_UMW-Youtai-Semiconductor-Co---Ltd--TP4057_C725791.pdf",
+      "mpn": "C725791"
     },
     {
       "cat": "power",
@@ -279,6 +295,14 @@
         }
       ],
       "mpn": "C255973"
+    },
+    {
+      "cat": "misc",
+      "name": "FS8205A",
+      "descr": "Dual N-Channel Enhancement Power Mosfet",
+      "filename": "fs8205a.pdf",
+      "url": "https://www.lcsc.com/datasheet/lcsc_datasheet_2411121100_TECH-PUBLIC-FS8205A_C2830320.pdf",
+      "mpn": "C2830320"
     },
     {
       "cat": "misc",
