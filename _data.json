@@ -284,6 +284,14 @@
     },
     {
       "cat": "misc",
+      "name": "DMP1045U",
+      "descr": "P-Channel Enhancement MOSFET",
+      "url": "https://www.diodes.com/assets/Datasheets/DMP1045U.pdf",
+      "filename": "dmp10445u.pdf",
+      "mpn": "C177033"
+    },
+    {
+      "cat": "misc",
       "name": "FA-20h",
       "descr": "40Mhz Oscillator Crystal",
       "url": "https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en",

@@ -125,6 +125,9 @@ Other Components
 - **Button** - *Oval*
   - [datasheet](./misc/button-oval.pdf) <sup>[[external](https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811151525_Diodes-Incorporated-74LVC1T45W6-7_C168856.pdf)]</sup>
   - LCSC Part C720479 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C720479)]</sup>
+- **DMP1045U** - *P-Channel Enhancement MOSFET*
+  - [datasheet](./misc/dmp10445u.pdf) <sup>[[external](https://www.diodes.com/assets/Datasheets/DMP1045U.pdf)]</sup>
+  - LCSC Part C177033 <sup>[[JLCPCB](https://jlcpcb.com/partdetail/C177033)]</sup>
 - **FA-20h** - *40Mhz Oscillator Crystal*
   - [datasheet](./misc/fa-20h.pdf) <sup>[[external](https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-20H&lang=en)]</sup>
   - Epson website <sup>[[external](https://www5.epsondevice.com/en/products/crystal_unit/fa20h.html)]</sup>
